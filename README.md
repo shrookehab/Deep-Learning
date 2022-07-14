@@ -4,7 +4,7 @@ We've all been there: a light turns green and the car in front of you doesn't bu
 
 When you pass the offending driver, what do you expect to see? You certainly aren't surprised when you spot a driver who is texting, seemingly enraptured by social media, or in a lively hand-held conversation on their phone.
 
-<img src= "https://storage.googleapis.com/kaggle-competitions/kaggle/5048/media/drivers_statefarm.png" alt ="Titanic" style='width: 800px;height:400px'>
+<img src= "https://storage.googleapis.com/kaggle-competitions/kaggle/5048/media/drivers_statefarm.png" alt ="Titanic" style='width: 900px;height:300px'>
 
 According to the CDC motor vehicle safety division, one in five car accidents is caused by a distracted driver. Sadly, this translates to 425,000 people injured and 3,000 people killed by distracted driving every year.
 
@@ -30,11 +30,11 @@ State Farm hopes to improve these alarming statistics, and better insure their c
 
 * Feature Engineering 
 
-![](https://github.com/shrookehab/Deep-Learning/tree/main/Final%20Project/Picture2.png)
+![](https://github.com/shrookehab/Deep-Learning/blob/main/Final%20Project/Picture2.png)
 
 * Data Augmentation
 
-![](https://github.com/shrookehab/Deep-Learning/tree/main/Final%20Project/Picture3.png)
+![](https://github.com/shrookehab/Deep-Learning/blob/main/Final%20Project/Picture3.png)
 
 * After training the model
 
@@ -42,13 +42,13 @@ State Farm hopes to improve these alarming statistics, and better insure their c
 
 * Kernel Visualization
 
-![](https://github.com/shrookehab/Deep-Learning/tree/main/Final%20Project/Picture4.png)
+![](https://github.com/shrookehab/Deep-Learning/blob/main/Final%20Project/Picture4.png)
 
 ## Authors 
 
 * [Abdelrahman Amgad](https://github.com/AbdellrahmanAmgad)
 * [Noha Ahed](https://github.com/nohaahed)
-* [Sherif Ahmed]
+* [Sherif Ahmed]()
 * [Shrook Ehab](https://github.com/shrookehab)  
 * [Yasser Hawass](https://github.com/YasserHawass)
 
