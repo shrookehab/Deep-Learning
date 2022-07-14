@@ -38,7 +38,7 @@ State Farm hopes to improve these alarming statistics, and better insure their c
 
 * After training the model
 
-![](https://github.com/shrookehab/Deep-Learning/tree/main/Final%20Project/Picture1.png)
+![](https://github.com/shrookehab/Deep-Learning/blob/main/Final%20Project/Picture1.png)
 
 * Kernel Visualization
 
